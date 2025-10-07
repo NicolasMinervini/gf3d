@@ -152,19 +152,10 @@
     <ClCompile Include="..\src\game.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\gf3d_camera.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\src\gf3d_commands.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\src\gf3d_extensions.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\src\gf3d_mesh.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\src\gf3d_model.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\src\gf3d_obj_load.c">
